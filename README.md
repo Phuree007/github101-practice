@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| ภูรี เอกา | Team 05 | Backend / Cloud Developer | https://github.com/Phuree007/github101-practice/blob/main/docs/evidence/67050572-phuree.md (docs/evidence/67050572-phuree.md) | https://github.com/Phuree007/github101-practice/new/main/docs/issues |
+| ภูรี เอกา | Team 05 | Backend / Cloud Developer | https://github.com/Phuree007/github101-practice/blob/main/docs/evidence/67050572-phuree.md (docs/evidence/67050572-phuree.md) | https://github.com/Phuree007/github101-practice/blob/main/docs/issues/Title%3A%20%5BPractice%5D%20Add%20my%20GitHub%20evidence |
 
 ---
 

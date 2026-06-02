@@ -7,9 +7,9 @@
 ## Description
 
 ### What I need to do
-- [ ] Edit README
-- [ ] Add evidence file
-- [ ] Submit links
+- [✔] Edit README
+- [✔] Add evidence file
+- [✔] Submit links
 
 ### Evidence
 - README link:https://github.com/Phuree007/github101-practice/blob/main/README.md
